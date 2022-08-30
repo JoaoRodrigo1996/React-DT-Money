@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-08-29T18:12:03.060Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 15000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-08-30T01:51:45.500Z",
+      "id": 4
+    },
+    {
+      "description": "Misto quente",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-30T02:07:05.922Z",
+      "id": 5
     }
   ]
 }
