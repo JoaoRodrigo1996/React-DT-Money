@@ -4,6 +4,7 @@ import { HeaderContainer, HeaderContent, NewTransactionButton } from "./styles";
 
 import logoImg from "../../assets/dt-logo.svg";
 import { NewTransactionModal } from "../NewTransactionModal";
+import { useState } from "react";
 
 export function Header() {
   return (

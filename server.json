@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2022-08-30T02:07:05.922Z",
       "id": 5
+    },
+    {
+      "description": "Viagem para Suiça",
+      "price": 10000,
+      "category": "Férias",
+      "type": "outcome",
+      "createdAt": "2022-08-30T02:23:25.154Z",
+      "id": 6
     }
   ]
 }
